@@ -1,0 +1,45 @@
+.row1>div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* flex-direction: row; */
+      flex-direction: column;
+    /* border: 2px solid red; */
+    height: 208px;
+    width: 384px;
+}
+.row2>div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    height: 208px;
+    width: 384px;
+}
+.row1>div>img{
+    height: 48px;
+    width: 48px;
+}
+.row2>div>img{
+    height: 48px;
+    width: 48px;
+}
+.row1>div>h1{
+    font-size: medium;
+    align-items: center;
+}
+.row2>div>h1{
+    font-size: medium;
+    align-items: center;
+}
+
+.row1>div>p{
+    width: 320px;
+    color: #475467;
+}
+.row2>div>p{
+    width: 320px;
+    color: #475467;
+}
+
