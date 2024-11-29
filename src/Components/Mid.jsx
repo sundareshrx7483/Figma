@@ -16,14 +16,14 @@ const Mid = () => {
           top:'100px'
         }}
       >
-        <img src="public\assets\Fictional company logo.svg" alt="" id="img1" />
+        <img src="\assets\Fictional company logo.svg" alt="" id="img1" />
 
         <h1 style={{ color: " #101828",position:"relative",top:"-20px" }}>
           We’ve been using Untitled to kick start every new project and can’t
           imagine working without it.
         </h1>
 
-        <img src="public\assets\Avatar and text.svg" alt="" style={{ position:"relative",top:"-20px" }} />
+        <img src="\assets\Avatar and text.svg" alt="" style={{ position:"relative",top:"-20px" }} />
       </div>
     </div>
   );

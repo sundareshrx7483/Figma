@@ -83,7 +83,7 @@ const Features = () => {
           }}
         >
           <div className="col1">
-            <img src="public\assets\Featured icon.svg" alt="" />
+            <img src="\assets\Featured icon.svg" alt="" />
             <h1>Share team inboxes</h1>
             <p>
               Whether you have a team of 2 or 200, our shared team inboxes keep
@@ -91,7 +91,7 @@ const Features = () => {
             </p>
           </div>
           <div className="col2">
-            <img src="public\assets\Featured icon 2.svg" alt="" />
+            <img src="\assets\Featured icon 2.svg" alt="" />
             <h1>Deliver instant answers</h1>
             <p>
               n all-in-one customer service platform that helps you balance
@@ -99,7 +99,7 @@ const Features = () => {
             </p>
           </div>
           <div className="col3">
-            <img src="public\assets\Featured icon.svg" alt="" />
+            <img src="\assets\Featured icon.svg" alt="" />
             <h1>Manage your team with reports</h1>
             <p>
               Measure what matters with Untitled’s easy-to-use reports. You can
@@ -116,7 +116,7 @@ const Features = () => {
           }}
         >
           <div className="col1">
-            <img src="public\assets\Featured icon 4.svg" alt="" />
+            <img src="\assets\Featured icon 4.svg" alt="" />
             <h1>Connect with customers</h1>
             <p>
               Solve a problem or close a sale in real-time with chat. If no one
@@ -125,7 +125,7 @@ const Features = () => {
             </p>
           </div>
           <div className="col2">
-            <img src="public\assets\Featured icon 5.svg" alt="" />
+            <img src="\assets\Featured icon 5.svg" alt="" />
             <h1>Connect the tools you already use</h1>
             <p>
               Explore 100+ integrations that make your day-to-day workflow more
@@ -133,7 +133,7 @@ const Features = () => {
             </p>
           </div>
           <div className="col3">
-            <img src="public\assets\Featured icon 6.svg" alt="" />
+            <img src="\assets\Featured icon 6.svg" alt="" />
             <h1 >Our people make the difference</h1>
             <p>
               We’re an extension of your customer service team, and all of our

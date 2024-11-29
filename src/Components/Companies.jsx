@@ -28,7 +28,7 @@ const Companies = () => {
         </p>
 
         <img
-          src="public\assets\Logos.svg"
+          src="\assets\Logos.svg"
           style={{
             height: "48px",
             width: "70%",

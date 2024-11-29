@@ -7,13 +7,13 @@ const FeaturesTwo = () => {
         className="container1"
         style={{ position: "relative", top: "200px" }}
       >
-        <img src="public\assets\Container.svg" alt="" />
+        <img src="\assets\Container.svg" alt="" />
       </div>
       <div
         className="container2"
         style={{ position: "relative", top: "200px" }}
       >
-        <img src="public\assets\Content.svg" alt="" />
+        <img src="\assets\Content.svg" alt="" />
       </div>
       <div
         className="row1"
@@ -26,7 +26,7 @@ const FeaturesTwo = () => {
         }}
       >
         <div className="col1">
-          <img src="public\assets\Featured icon.svg" alt="" />
+          <img src="\assets\Featured icon.svg" alt="" />
           <h1>Share team inboxes</h1>
           <p>
             Whether you have a team of 2 or 200, our shared team inboxes keep
@@ -34,7 +34,7 @@ const FeaturesTwo = () => {
           </p>
         </div>
         <div className="col2">
-          <img src="public\assets\Featured icon 2.svg" alt="" />
+          <img src="\assets\Featured icon 2.svg" alt="" />
           <h1>Deliver instant answers</h1>
           <p>
             n all-in-one customer service platform that helps you balance
@@ -42,7 +42,7 @@ const FeaturesTwo = () => {
           </p>
         </div>
         <div className="col3">
-          <img src="public\assets\Featured icon.svg" alt="" />
+          <img src="\assets\Featured icon.svg" alt="" />
           <h1>Manage your team with reports</h1>
           <p>
             Measure what matters with Untitled’s easy-to-use reports. You can

@@ -44,7 +44,7 @@ const Blog = () => {
         </div>
       </div> */}
       <img
-        src="public\assets\Blog section.svg"
+        src="\assets\Blog section.svg"
         style={{ position: "relative", top: "250px" }}
         alt=""
       />
@@ -98,7 +98,7 @@ const Blog = () => {
               
               
           </div>
-          <img src="public\assets\Footer.svg" alt="" />
+          <img src="\assets\Footer.svg" alt="" />
     </>
   );
 };

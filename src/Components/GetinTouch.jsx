@@ -34,7 +34,7 @@ const GetinTouch = () => {
             flexDirection: "column",
           }}
         >
-          <img src="public\assets\Avatar group.svg" alt="" />
+          <img src="\assets\Avatar group.svg" alt="" />
           <h1
             style={{
               fontSize: "20px",

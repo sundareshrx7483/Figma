@@ -19,7 +19,7 @@ const NavBar = () => {
       <header>
         <div className="container">
           <img
-            src="public\assets\Screenshot 2024-11-29 130128.png"
+            src="\assets\Screenshot 2024-11-29 130128.png"
             alt=""
             style={{
               position: "relative",
@@ -48,7 +48,7 @@ const NavBar = () => {
           </ul>
 
           <div className="userIcon">
-          <img src="public\assets\Dropdown.svg" alt="" />
+          <img src="\assets\Dropdown.svg" alt="" />
           </div>
         </div>
           </header>
@@ -186,7 +186,7 @@ const NavBar = () => {
               top:"20px"
           }}
         >
-          <img src="public\assets\Screen mockup (REPLACE FILL).png" alt=""  style={{height:"100%",width:"100%"}}/>
+          <img src="\assets\Screen mockup (REPLACE FILL).png" alt=""  style={{height:"100%",width:"100%"}}/>
               </div>
               
               <Companies />
